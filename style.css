@@ -19,10 +19,17 @@ img{
         height: 450px;
             
     }
-    .card{
+.card{
         border: 2px solid rgb(218, 64, 205);
         max-width: 350px;
         margin: 20px;
         padding: 20px;
 
+    }
+.rockstar{
+        border:2px solid  black;
+        max-width: 450px;
+    }
+ #rockstar-img{
+        width: 100%;        
     }
