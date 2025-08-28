@@ -1,0 +1,28 @@
+h2{
+    font-size: 50px;
+}
+#first{
+        color: rgb(180, 98, 98);
+    }
+#second{
+        color: rgb(159, 159, 218);
+        border: 1px solid rgb(89, 55, 211);
+    }
+#third{
+        color: rgb(95, 177, 95);
+    }
+#fourth{
+        color: rgb(219, 219, 43);
+    }   
+img{
+        width: 450px;
+        height: 450px;
+            
+    }
+    .card{
+        border: 2px solid rgb(218, 64, 205);
+        max-width: 350px;
+        margin: 20px;
+        padding: 20px;
+
+    }
